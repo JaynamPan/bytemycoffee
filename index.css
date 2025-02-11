@@ -1,0 +1,27 @@
+.head {
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head .logo {
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    user-select: text;
+}
+
+#markdown-content {
+    margin-top: 50px;
+    margin-bottom: 200px;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+select {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
